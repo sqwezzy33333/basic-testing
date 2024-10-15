@@ -14,7 +14,6 @@ const testCases = [
   { a: 6, b: 5, action: Action.Multiply, expected: 30 },
   { a: 18, b: 2, action: Action.Multiply, expected: 36 },
 
-
   { a: 16, b: 1, action: Action.Divide, expected: 16 },
   { a: 30, b: 5, action: Action.Divide, expected: 6 },
   { a: 16, b: 2, action: Action.Divide, expected: 8 },
